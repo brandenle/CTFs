@@ -1,6 +1,6 @@
-#Base Encoding for whatever you want
+#Encodes a sentence in a set number of times in a random order in base16, base32, and base64.
 
-#Imports OS For File Read
+#Imports OS For File Writer
 import os
 #Imports For Base Encryption
 import base64
